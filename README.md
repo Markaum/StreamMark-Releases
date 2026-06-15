@@ -30,7 +30,7 @@ TTS (Text-to-Speech): O app lê as mensagens resgatadas em voz alta.
 🔌 Integração Oficial com a Twitch: Login seguro e rápido com apenas um clique. O sistema se conecta diretamente à Twitch (via EventSub e TMI) para ler eventos em tempo real, sem que você precise configurar chaves de API complicadas.
 
 📥 Como Instalar e Usar:
-Solicite seu acesso: O StreamMark atualmente opera em Beta Fechado. [Solicite sua chave de licença clicando aqui!](https://streammark.web.app)
+Solicite seu acesso: O StreamMark atualmente opera em Beta Fechado. [Solicite sua chave de licença clicando aqui!](https://streamforge.web.app)
 Baixe o arquivo StreamMark Setup 1.0.1.exe logo abaixo na seção "Assets".
 Dê dois cliques para instalar no seu computador.
 Abra o aplicativo, insira sua Chave de Licença e clique em "Fazer Login" para conectar sua Twitch.
